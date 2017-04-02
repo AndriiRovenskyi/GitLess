@@ -1,0 +1,18 @@
+
+$ git config user.name "andrii"
+$ git config user.email "arovenskyi@gmail.com"
+$ git config --list
+
+
+$ git status
+$ git add <file> -add
+$ git add . - add all
+$ git rm --cached <file>-remove
+
+$ git commit -m "first commit"
+
+$ git log -who and where done commit
+
+$ git remote add origin https://github.com/AndriiRovenskyi/GitLess.git
+
+$ git remote rm origin - remove origin
